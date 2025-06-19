@@ -66,7 +66,7 @@ I'm passionate about building scalable cloud infrastructures and automating ever
 ## 🤝 Let's Connect
 
 - 🌐 [LinkedIn](https://www.linkedin.com/in/arthur-fonda)
-- 📫 Email: your.email@example.com
+- 📫 Email: arthurngoussong@gmail.com
 - 🧠 Blog: [arthurfonda.com](https://arthurfonda.com)
 
 ---
