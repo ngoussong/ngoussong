@@ -31,9 +31,6 @@ I'm passionate about building scalable cloud infrastructures and automating ever
 **Containers & Orchestration:**  
 `Docker` | `Kubernetes` | `EKS` | `ECS`
 
-**Containers and Orchestration:**
-`Docker` | `Kubernetes` | `EKS` | `ECS`
-
 **Programming:**  
 `Python` | `Java` | `JavaScript` | `Bash`
 
