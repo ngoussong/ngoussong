@@ -2,9 +2,7 @@
 
 📍 Montreal, Canada  | 📧 arthurngoussong@gmail.com |  [LinkedIn](https://www.linkedin.com/in/arthur-fonda/)
 
----
-
-🎯 **Cloud Engineer | DevOps | Infrastructure as Code Specialist**
+## Cloud Engineer | DevOps | Infrastructure as Code Specialist
 
 I'm passionate about building scalable cloud infrastructures and automating everything with code. With a background in software engineering and hands-on experience in AWS, Terraform, Ansible, and CI/CD, I enjoy turning complex infrastructure challenges into elegant, automated solutions.
 
