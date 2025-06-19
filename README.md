@@ -28,6 +28,9 @@ I'm passionate about building scalable cloud infrastructures and automating ever
 **DevOps & CI/CD:**  
 `GitLab CI/CD` | `GitLab CI/CD` | `GitHub Actions` | `Docker` | `Linux` | `Shell Scripting`
 
+**Containers & Orchestration:**  
+`Docker` | `Kubernetes` | `EKS` | `ECS`
+
 **Containers and Orchestration:**
 `Docker` | `Kubernetes` | `EKS` | `ECS`
 
