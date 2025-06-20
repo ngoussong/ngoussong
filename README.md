@@ -44,6 +44,7 @@ I'm passionate about building scalable cloud infrastructures and automating ever
 - ✅ **Hashicorp Certified Terraform Associate**
 - ✅ **AWS Certified Solutions Architect Associate**
 - ✅ **AWS Certified Cloud Practitioner**
+- ✅ **Spring Certified Professional 2024 [v2]**
 
 ---
 
