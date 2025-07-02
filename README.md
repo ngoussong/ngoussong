@@ -26,7 +26,7 @@ I'm passionate about building scalable cloud infrastructures and automating ever
 `Terraform` | `Ansible` | `Pulumi` | `CloudFormation`
 
 **DevOps & CI/CD:**  
-`GitLab CI/CD` | `GitLab CI/CD` | `GitHub Actions` | `Docker` | `Linux` | `Shell Scripting`
+`Jenkins` | `GitLab CI/CD` | `GitHub Actions` | `Docker` | `Linux` | `Shell Scripting`
 
 **Containers & Orchestration:**  
 `Docker` | `Kubernetes` | `EKS` | `ECS`
